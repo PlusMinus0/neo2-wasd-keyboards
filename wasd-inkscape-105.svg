@@ -14,8 +14,8 @@
    height="576"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r"
-   sodipodi:docname="tastatur.svg">
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="wasd-inkscape-105.svg">
   <defs
      id="defs4">
     <symbol
@@ -188,10 +188,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3618353"
-     inkscape:cx="1068.6924"
+     inkscape:cx="656.67072"
      inkscape:cy="104.66275"
      inkscape:document-units="px"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="layer21-8"
      showgrid="false"
      units="in"
      inkscape:window-width="2560"
@@ -25672,7 +25672,7 @@
        inkscape:groupmode="layer"
        id="layer16-6"
        inkscape:label="Neo_Ebene4"
-       style="display:none"
+       style="display:inline"
        transform="translate(246.38574,-796.56288)"
        sodipodi:insensitive="true">
       <rect
@@ -26466,7 +26466,7 @@
        inkscape:groupmode="layer"
        id="layer15-1"
        inkscape:label="Neo_Ebene3"
-       style="display:none"
+       style="display:inline"
        sodipodi:insensitive="true"
        transform="translate(246.38574,-796.56288)">
       <text
@@ -27176,7 +27176,7 @@
        inkscape:groupmode="layer"
        id="layer13-0"
        inkscape:label="Neo_Ebene2"
-       style="display:none"
+       style="display:inline"
        transform="translate(246.38574,-796.56288)"
        sodipodi:insensitive="true">
       <text
