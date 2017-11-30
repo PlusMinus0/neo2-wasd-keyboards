@@ -188,10 +188,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.7037038"
-     inkscape:cx="1475.8711"
-     inkscape:cy="124.9095"
+     inkscape:cx="1459.6437"
+     inkscape:cy="255.28302"
      inkscape:document-units="px"
-     inkscape:current-layer="layer18-5"
+     inkscape:current-layer="svg2"
      showgrid="false"
      units="in"
      inkscape:window-width="2560"
@@ -201,7 +201,7 @@
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:snap-bbox="false"
+     inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
@@ -24134,7 +24134,8 @@
        id="layer18-5"
        inkscape:label="Neo_Ebene6"
        style="display:inline"
-       transform="translate(246.38574,-796.56288)">
+       transform="translate(246.38574,-796.56288)"
+       sodipodi:insensitive="true">
       <rect
          style="display:inline;fill:none;stroke:#e31515;stroke-width:0.86278212;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0.86278211, 1.72556421;stroke-dashoffset:0.86278212;stroke-opacity:1"
          id="rect16266"
@@ -26332,25 +26333,25 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'DejaVu LGC Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffee00;fill-opacity:1"
-         x="1362.3226"
+         x="1361.5601"
          y="1084.0853"
          id="text8944"><tspan
            sodipodi:role="line"
            id="tspan8946"
-           x="1362.3226"
+           x="1361.5601"
            y="1084.0853"
            style="font-size:17.16624832px;line-height:1;font-family:'Linux Libertine';fill:#ffee00;fill-opacity:1">∓</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:AdineKirnberg-Script;-inkscape-font-specification:AdineKirnberg-Script;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffee00;fill-opacity:1"
-         x="1359.7515"
-         y="990.60217"
+         x="1359.661"
+         y="990.86493"
          id="text4004"
          inkscape:transform-center-x="2.51154"><tspan
            sodipodi:role="line"
            id="tspan4008"
-           x="1359.7515"
-           y="990.60217"
+           x="1359.661"
+           y="990.86493"
            style="font-size:12.5px;line-height:1;fill:#ffee00;fill-opacity:1">∖</tspan></text>
       <text
          xml:space="preserve"
@@ -27010,12 +27011,12 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'DejaVu LGC Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#856d12;fill-opacity:1;stroke:none"
-         x="1388.1143"
+         x="1388.877"
          y="1084.1189"
          id="text8952"><tspan
            sodipodi:role="line"
            id="tspan8954"
-           x="1388.1143"
+           x="1388.877"
            y="1084.1189"
            style="font-size:17.16624832px;line-height:1;font-family:'Linux Libertine';fill:#856d12;fill-opacity:1">±</tspan></text>
       <text
@@ -27054,13 +27055,13 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#856d12;fill-opacity:1;stroke:none"
-         x="1248.192"
-         y="1059.823"
+         x="1246.2378"
+         y="1060.5681"
          id="text8916"><tspan
            sodipodi:role="line"
            id="tspan8918"
-           x="1248.192"
-           y="1059.823"
+           x="1246.2378"
+           y="1060.5681"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#856d12;fill-opacity:1">↑</tspan></text>
       <text
          xml:space="preserve"
@@ -27109,13 +27110,13 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#856d12;fill-opacity:1;stroke:none"
-         x="1320.1816"
-         y="1060.0488"
+         x="1318.0463"
+         y="1060.5681"
          id="text16671"><tspan
            sodipodi:role="line"
            id="tspan16673"
-           x="1320.1816"
-           y="1060.0488"
+           x="1318.0463"
+           y="1060.5681"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#856d12;fill-opacity:1">↨</tspan></text>
       <text
          xml:space="preserve"
